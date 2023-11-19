@@ -91,6 +91,10 @@ img {
 
 }
 
+.menu-item {
+    padding: 24px 0;
+}
+
 /* menu */
 .menu-item-link {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -102,7 +106,7 @@ img {
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.32px;
-    padding: 24px 0;
+
 }
 
 .menu-item-link:hover,
